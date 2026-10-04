@@ -1,0 +1,55 @@
+{
+  "containerSize": "20ft",
+  "colors": {
+    "battery": "#2563eb",
+    "pcs": "#eab308",
+    "inv": "#f97316",
+    "hvac": "#06b6d4",
+    "novec": "#ef4444",
+    "shell": "#6b7280",
+    "found": "#374151"
+  },
+  "battery": {
+    "cellL": 173,
+    "cellW": 72,
+    "cellH": 207,
+    "capacityAh": 306,
+    "cellsPerPack": 16,
+    "packsPerRack": 8,
+    "rackCols": 2,
+    "rackRows": 4,
+    "packWeight": 110
+  },
+  "pcs": {
+    "w": 1000,
+    "d": 800,
+    "h": 2000,
+    "weight": 1200
+  },
+  "inv": {
+    "w": 800,
+    "d": 800,
+    "h": 1800,
+    "weight": 950
+  },
+  "hvac": {
+    "w": 600,
+    "d": 800,
+    "h": 2000,
+    "weight": 450
+  },
+  "novec": {
+    "w": 400,
+    "d": 500,
+    "h": 1600,
+    "weight": 180
+  },
+  "shell": {
+    "opacity": 0.3,
+    "weight": 2800
+  },
+  "found": {
+    "height": 400
+  },
+  "placements": {}
+}
